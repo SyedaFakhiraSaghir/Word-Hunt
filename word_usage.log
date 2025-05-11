@@ -1,0 +1,98 @@
+INFO:root:WordBankManager initialized
+INFO:root:Marked words as used for sports: {'FIND', 'WORD', 'GRID', 'HUNT', 'GAME', 'PLAY'}
+INFO:root:Marked words as used for sports: {'GRID', 'WORD', 'FIND'}
+INFO:root:Marked words as used for countries: {'CHINA', 'EGYPT', 'SPAIN', 'JAPAN', 'ITALY', 'KENYA', 'INDIA', 'QATAR'}
+INFO:root:Marked words as used for countries: {'CHINA', 'INDIA', 'ITALY'}
+INFO:root:Marked words as used for countries: {'EGYPT', 'ITALY', 'INDIA', 'CHINA', 'JAPAN', 'SPAIN', 'KENYA', 'QATAR'}
+INFO:root:Marked words as used for countries: {'ITALY', 'INDIA', 'CHINA'}
+INFO:root:Marked words as used for science: {'WORD', 'GRID', 'HUNT', 'GAME', 'PLAY', 'FIND'}
+INFO:root:Marked words as used for science: {'WORD', 'FIND', 'GRID'}
+INFO:root:Marked words as used for science: {'GAME', 'FIND', 'HUNT', 'PLAY', 'GRID', 'WORD'}
+INFO:root:Marked words as used for science: {'WORD', 'GRID', 'FIND'}
+INFO:root:Marked words as used for fruits: {'PEACH', 'PEAR', 'KIWI', 'GRAPE', 'APPLE', 'MANGO'}
+INFO:root:Marked words as used for fruits: {'PEACH', 'GRAPE', 'PEAR'}
+INFO:root:Marked words as used for countries: {'KENYA', 'INDIA', 'JAPAN', 'ITALY', 'CHINA', 'EGYPT', 'QATAR', 'SPAIN'}
+INFO:root:Marked words as used for countries: {'CHINA', 'INDIA', 'ITALY'}
+INFO:root:Marked words as used for animals: {'SHARK', 'BEAR', 'ZEBRA', 'TIGER', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'LION', 'TIGER', 'SHARK'}
+INFO:root:Marked words as used for animals: {'SHARK', 'BEAR', 'ZEBRA', 'TIGER', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'LION', 'TIGER', 'SHARK'}
+INFO:root:Marked words as used for animals: {'SHARK', 'BEAR', 'ZEBRA', 'TIGER', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'LION', 'TIGER', 'SHARK'}
+INFO:root:Marked words as used for countries: {'KENYA', 'INDIA', 'JAPAN', 'ITALY', 'CHINA', 'EGYPT', 'QATAR', 'SPAIN'}
+INFO:root:Marked words as used for countries: {'CHINA', 'INDIA', 'ITALY'}
+INFO:root:Marked words as used for countries: {'KENYA', 'INDIA', 'JAPAN', 'ITALY', 'CHINA', 'EGYPT', 'QATAR', 'SPAIN'}
+INFO:root:Marked words as used for countries: {'CHINA', 'INDIA', 'ITALY'}
+INFO:root:Marked words as used for animals: {'SHARK', 'BEAR', 'ZEBRA', 'TIGER', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'LION', 'TIGER', 'SHARK'}
+INFO:root:Marked words as used for animals: {'SHARK', 'BEAR', 'ZEBRA', 'TIGER', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'LION', 'TIGER', 'SHARK'}
+INFO:root:Marked words as used for countries: {'KENYA', 'INDIA', 'JAPAN', 'ITALY', 'CHINA', 'EGYPT', 'QATAR', 'SPAIN'}
+INFO:root:Marked words as used for countries: {'CHINA', 'INDIA', 'ITALY'}
+INFO:root:Marked words as used for countries: {'KENYA', 'INDIA', 'JAPAN', 'ITALY', 'CHINA', 'EGYPT', 'QATAR', 'SPAIN'}
+INFO:root:Marked words as used for countries: {'ITALY', 'CHINA', 'INDIA', 'SPAIN'}
+INFO:root:Marked words as used for countries: {'KENYA', 'INDIA', 'JAPAN', 'ITALY', 'CHINA', 'EGYPT', 'QATAR', 'SPAIN'}
+INFO:root:Marked words as used for countries: {'CHINA', 'INDIA', 'ITALY'}
+INFO:root:Marked words as used for animals: {'SHARK', 'BEAR', 'ZEBRA', 'TIGER', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'LION', 'TIGER', 'SHARK'}
+INFO:root:Marked words as used for animals: {'ZEBRA', 'TIGER', 'WOLF', 'LION', 'SHARK', 'BEAR'}
+INFO:root:Marked words as used for animals: {'SHARK', 'TIGER', 'LION'}
+INFO:root:Marked words as used for fruits: {'KIWI', 'PEAR', 'APPLE', 'MANGO', 'GRAPE', 'PEACH'}
+INFO:root:Marked words as used for fruits: {'PEAR', 'GRAPE', 'PEACH'}
+INFO:root:Marked words as used for science: {'HUNT', 'GRID', 'PLAY', 'FIND', 'GAME', 'WORD'}
+INFO:root:Marked words as used for science: {'WORD', 'GRID', 'FIND'}
+INFO:root:Marked words as used for science: {'HUNT', 'GRID', 'PLAY', 'FIND', 'GAME', 'WORD'}
+INFO:root:Marked words as used for science: {'WORD', 'GRID', 'FIND'}
+INFO:root:Marked words as used for animals: {'ZEBRA', 'TIGER', 'LION', 'BEAR', 'SHARK', 'WOLF'}
+INFO:root:Marked words as used for animals: {'TIGER', 'LION', 'SHARK'}
+INFO:root:Marked words as used for animals: {'ZEBRA', 'TIGER', 'LION', 'BEAR', 'SHARK', 'WOLF'}
+INFO:root:Marked words as used for animals: {'TIGER', 'LION', 'BEAR', 'SHARK'}
+INFO:root:Marked words as used for animals: {'ZEBRA', 'TIGER', 'LION', 'BEAR', 'SHARK', 'WOLF'}
+INFO:root:Marked words as used for animals: {'TIGER', 'LION', 'BEAR', 'SHARK'}
+INFO:root:Marked words as used for animals: {'TIGER', 'BEAR', 'ZEBRA', 'LION', 'WOLF', 'SHARK'}
+INFO:root:Marked words as used for animals: {'SHARK', 'TIGER', 'LION'}
+INFO:root:Marked words as used for animals: {'TIGER', 'BEAR', 'ZEBRA', 'LION', 'WOLF', 'SHARK'}
+INFO:root:Marked words as used for animals: {'SHARK', 'TIGER', 'LION'}
+INFO:root:Marked words as used for animals: {'TIGER', 'BEAR', 'ZEBRA', 'LION', 'WOLF', 'SHARK'}
+INFO:root:Marked words as used for animals: {'SHARK', 'TIGER', 'LION'}
+INFO:root:Marked words as used for animals: {'TIGER', 'BEAR', 'ZEBRA', 'LION', 'WOLF', 'SHARK'}
+INFO:root:Marked words as used for animals: {'SHARK', 'TIGER', 'LION'}
+INFO:root:Marked words as used for fruits: {'PEACH', 'KIWI', 'APPLE', 'GRAPE', 'MANGO', 'PEAR'}
+INFO:root:Marked words as used for fruits: {'GRAPE', 'PEAR', 'PEACH'}
+INFO:root:Marked words as used for countries: {'ITALY', 'EGYPT', 'SPAIN', 'CHINA', 'INDIA', 'QATAR', 'JAPAN', 'KENYA'}
+INFO:root:Marked words as used for countries: {'CHINA', 'INDIA', 'ITALY'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'TIGER', 'SHARK', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'TIGER', 'BEAR', 'SHARK', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'TIGER', 'BEAR', 'SHARK', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'ELEPHANT', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION', 'GIRAFFE'}
+INFO:root:Marked words as used for animals: {'BEAR', 'TIGER', 'SHARK', 'ZEBRA', 'WOLF', 'LION'}
+INFO:root:Marked words as used for animals: {'TIGER', 'SHARK', 'LION'}
+INFO:root:Marked words as used for fruits: {'ORANGE', 'PEACH', 'KIWI', 'APPLE', 'BANANA', 'GRAPE', 'MANGO', 'PEAR'}
+INFO:root:Marked words as used for fruits: {'ORANGE', 'PEACH', 'KIWI', 'APPLE', 'BANANA', 'GRAPE', 'MANGO', 'PEAR'}
+INFO:root:Marked words as used for fruits: {'ORANGE', 'PEACH', 'KIWI', 'APPLE', 'BANANA', 'GRAPE', 'MANGO', 'PEAR'}
+INFO:root:Marked words as used for fruits: {'ORANGE', 'PEACH', 'KIWI', 'APPLE', 'MANGO', 'GRAPE', 'BANANA', 'PEAR'}
+INFO:root:Marked words as used for sports: {'WORD', 'GAME', 'FIND', 'PUZZLE', 'GRID', 'LETTER', 'PLAY', 'HUNT'}

@@ -1,0 +1,62 @@
+{
+  "animals": [
+    "VARMINTS",
+    "CREATURES",
+    "JENNETS",
+    "FERALS",
+    "ROISTERERS",
+    "STOCKS",
+    "NOISEMAKERS",
+    "INSECTIVORES",
+    "BEASTIE",
+    "WASSAILERS"
+  ],
+  "fruits": [
+    "RESULTS",
+    "BACKWASH",
+    "THING",
+    "SEQUEL",
+    "PRODUCES",
+    "BLOOMS",
+    "CONSEQUENCES",
+    "FLOWERS",
+    "FATE",
+    "EFFECT"
+  ],
+  "countries": [
+    "COUNTRY",
+    "FATHERLANDS",
+    "COUNTRYSIDE",
+    "NATION",
+    "OUTLANDS",
+    "BOONDOCKS",
+    "SODS",
+    "COUNTRIES",
+    "NOWHERE",
+    "CRADLES"
+  ],
+  "sports": [
+    "PARADES",
+    "GAMBOL",
+    "MOCKERIES",
+    "RIDICULE",
+    "SEDAN",
+    "MACHINE",
+    "SEDANS",
+    "MOCKERY",
+    "BUSES",
+    "COMPACTS"
+  ],
+  "science": [
+    "DISLOYAL",
+    "SELLOUT",
+    "FAITHLESSNESS",
+    "FAITHLESS",
+    "FALSENESS",
+    "DISLOYALTY",
+    "BACKSTABBING",
+    "TRAITOROUS",
+    "FICKLE",
+    "INCONSTANCY"
+  ]
+}

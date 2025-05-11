@@ -1,0 +1,24 @@
+{
+  "game_mode": "single",
+  "single_player": {
+    "current_level": 9,
+    "score": 2710,
+    "grid_size": 7,
+    "theme": "animals"
+  },
+  "two_player": {
+    "player1_score": 0,
+    "player2_score": 0,
+    "current_level": 1,
+    "grid_size": 5,
+    "current_player": 1,
+    "theme": "animals"
+  },
+  "ai_mode": {
+    "current_level": 9,
+    "score": 2710,
+    "grid_size": 7,
+    "theme": "animals",
+    "ai_difficulty": 1
+  }
+}
